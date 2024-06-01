@@ -1,11 +1,11 @@
 .hidden {
-    display : none;
+    display : none; /*form숨기기*/
 }
 
 img {
     position: absolute;
-    width: 100vw; /* 뷰포트의 너비만큼 이미지의 너비를 설정 */
-    height: 100vh; /* 뷰포트의 높이만큼 이미지의 높이를 설정 */
+    width: 100vw; 
+    height: 100vh; 
     top: 0;
     left: 0;
     object-fit: cover;
